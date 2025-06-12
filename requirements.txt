@@ -1,0 +1,13 @@
+streamlit
+transformers
+torch
+sentencepiece
+PyPDF2
+pandas
+langchain 
+langchain-core 
+langchain-community
+langchain-huggingface
+transformers
+huggingface-hub
+python-dotenv
