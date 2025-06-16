@@ -36,3 +36,6 @@ Built using:
 ```bash
 git clone https://github.com/your-username/flashcard-generator.git
 cd flashcard-generator
+
+
+https://flashcard-generator-final-5kpbqkreddttigk65mvsem.streamlit.app/
