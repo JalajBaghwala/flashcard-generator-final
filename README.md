@@ -37,7 +37,7 @@ Built using:
 
 ```bash
 git clone https://github.com/JalajBaghwala/flashcard-generator-final
-cd flashcard-generator
+cd flashcard-generator-final
 
 
 
