@@ -25,7 +25,8 @@ Built using:
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/your-gif-demo-url.gif" width="600"/>
-  https://flashcard-generator-final-5kpbqkreddttigk65mvsem.streamlit.app/
+  <a href="https://flashcard-generator-final-5kpbqkreddttigk65mvsem.streamlit.app/">Click for demo</a
+  
 </p>
 
 ---
