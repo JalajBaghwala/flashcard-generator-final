@@ -35,7 +35,7 @@ Built using:
 ### 📸 Sample Flashcard Output
 
 <p align="center">
-  <img src="https://drive.google.com/file/d/1GYUuJuRXWtyQ4dhAZS59vN71VT33sWWP/view?usp=sharing" width="600"/>
+  <img src="https://user-images.githubusercontent.com/https://drive.google.com/file/d/1GYUuJuRXWtyQ4dhAZS59vN71VT33sWWP/view?usp=sharing.png" width="600"/>
 </p>
 
 ### 🎥 Demo Video
