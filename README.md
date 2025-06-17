@@ -35,17 +35,8 @@ Built using:
 ### 📸 Sample Flashcard Output
 
 <p align="center">
-  <img src="https://drive.google.com/file/d/1GYUuJuRXWtyQ4dhAZS59vN71VT33sWWP/view?usp=sharing" width="600"/>
+  <img src="https://drive.google.com/uc?export=view&id=1GYUuJuRXWtyQ4dhAZS59vN71VT33sWWP" width="600"/>
 </p>
-
-### 🎥 Demo Video
-
-<p align="center">
-  <a href="https://www.youtube.com/watch?v=your-video-id">
-    <img src="https://img.youtube.com/vi/your-video-id/0.jpg" width="600" alt="Watch the demo video"/>
-  </a>
-</p>
-
 
 ---
 
