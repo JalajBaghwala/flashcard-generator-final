@@ -32,7 +32,7 @@ Built using:
 
 ## Output
 
-### 📸 Sample Flashcard Output
+### 📸 Flashcard Output
 
 <p align="center">
   <img src="https://drive.google.com/uc?export=view&id=1GYUuJuRXWtyQ4dhAZS59vN71VT33sWWP" width="600"/>
