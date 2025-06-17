@@ -25,6 +25,7 @@ Built using:
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/your-gif-demo-url.gif" width="600"/>
+  https://flashcard-generator-final-5kpbqkreddttigk65mvsem.streamlit.app/
 </p>
 
 ---
@@ -34,8 +35,8 @@ Built using:
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/your-username/flashcard-generator.git
+git clone https://github.com/JalajBaghwala/flashcard-generator-final
 cd flashcard-generator
 
 
-https://flashcard-generator-final-5kpbqkreddttigk65mvsem.streamlit.app/
+
